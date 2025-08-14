@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <header>GUIMINAMFLIX</header>
+    <header>KELES7FLIX</header>
 
     <section class="chamada">
         <div class="chamada-texto">
